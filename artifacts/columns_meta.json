@@ -1,0 +1,25 @@
+{
+  "numeric_columns": [
+    "MONTANT",
+    "FREQUENCE_RECH",
+    "REVENUE",
+    "ARPU_SEGMENT",
+    "FREQUENCE",
+    "DATA_VOLUME",
+    "ON_NET",
+    "ORANGE",
+    "TIGO",
+    "ZONE1",
+    "ZONE2",
+    "REGULARITY",
+    "FREQ_TOP_PACK"
+  ],
+  "categorical_columns": [
+    "REGION",
+    "TENURE",
+    "MRG",
+    "TOP_PACK"
+  ],
+  "categorical_choices": {},
+  "target": "CHURN"
+}
